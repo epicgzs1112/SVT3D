@@ -1,0 +1,32 @@
+[
+	{
+		"taxonomy_id": "real",
+		"taxonomy_name": "real",
+		"baseline": {
+			"1-view": 0.513,
+			"2-view": 0.536,
+			"3-view": 0.549,
+			"4-view": 0.556,
+			"5-view": 0.561
+		},
+		"test": [
+			"chair0",
+			"chair1",
+			"chair2",
+			"chair3",
+			"chair4",
+			"chair5",
+			"chair6",
+			"chair7",
+			"chair8",
+			"chair9",
+			"chair10",
+			"chair11",
+			"chair12",
+			"chair13",
+			"chair14"
+
+
+		]
+	}
+]
