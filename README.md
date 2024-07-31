@@ -1,4 +1,19 @@
 #our new work for multi-view 3d reconstruction(voxel model)! paper is writing ,waiting for publish!
+## Performance on shapnet dataset , IOU/F1 both ↑ .
+
+|year|method|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+|2016|3dr2n2(https://github.com/chrischoy/3D-R2N2)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+|2020|attsets(https://github.com/Yang7879/AttSets)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+|2020|pix2vox++(https://gitlab.com/hzxie/Pix2Vox)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+|2023|garnet(https://github.com/GaryZhu1996/GARNet)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+|----|----|----|----|----|----| ----|----|----|----|----|
+|2021|evolt|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+|2021|legoformer(https://github.com/faridyagubbayli/LegoFormer)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+|2021|3dretr(https://github.com/fomalhautb/3D-RETR)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+|year|umiformer(https://github.com/GaryZhu1996/UMIFormer)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+|year|lrgt(https://github.com/LiyingCV/Long-Range-Grouping-Transformer)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+
+
 ## Installation
 The environment was tested on Ubuntu 22.04LTS and. We trained SVT3D on 1 3060 with 12 GB  for about 3 days.CUDA 11.3 torch 1.11.0 .
 just pip install   xxxx.    no module named xxxx.  
