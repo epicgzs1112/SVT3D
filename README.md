@@ -2,6 +2,7 @@
 ## Performance on shapnet dataset , IOU/F1 both ↑ .
 
 |year|method|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+| ---| -----| ----| --  | --- | -----|-----|-----|-----|-----|-----|
 |2016|3dr2n2(https://github.com/chrischoy/3D-R2N2)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
 |2020|attsets(https://github.com/Yang7879/AttSets)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
 |2020|pix2vox++(https://gitlab.com/hzxie/Pix2Vox)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
