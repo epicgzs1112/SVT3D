@@ -6,7 +6,6 @@
 |2020|attsets(https://github.com/Yang7879/AttSets)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
 |2020|pix2vox++(https://gitlab.com/hzxie/Pix2Vox)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
 |2023|garnet(https://github.com/GaryZhu1996/GARNet)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
-|----|----|----|----|----|----| ----|----|----|----|----|
 |2021|evolt|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
 |2021|legoformer(https://github.com/faridyagubbayli/LegoFormer)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
 |2021|3dretr(https://github.com/fomalhautb/3D-RETR)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
