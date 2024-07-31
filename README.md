@@ -1,4 +1,6 @@
-#our new work for multi-view 3d reconstruction(voxel model)! paper is writing ,waiting for publish!
+.markdown-body {
+    max-width: 1000px; /* or whatever width you prefer */
+    #our new work for multi-view 3d reconstruction(voxel model)! paper is writing ,waiting for publish!
 ## Performance on shapnet dataset , IOU/F1 both ↑ .
 
 |year|method|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
@@ -55,5 +57,8 @@ after ensure the dataset path is right in config.py,just run the runner.py.
 ### Evaluation
 when eval just add --test --weights pathtoweight   paprameter in  correspond runner.py   file . 
 -config.py   -> runner.py  --test --weights pathtoweight trained on shapnet    eval on shapenet
+
+}
+
 
 
