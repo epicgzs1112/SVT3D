@@ -10,8 +10,8 @@
 |2021|evolt|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
 |2021|legoformer(https://github.com/faridyagubbayli/LegoFormer)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
 |2021|3dretr(https://github.com/fomalhautb/3D-RETR)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
-|year|umiformer(https://github.com/GaryZhu1996/UMIFormer)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
-|year|lrgt(https://github.com/LiyingCV/Long-Range-Grouping-Transformer)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+|2023|umiformer(https://github.com/GaryZhu1996/UMIFormer)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
+|2023|lrgt(https://github.com/LiyingCV/Long-Range-Grouping-Transformer)|1view|2view|3view|4view| 5view|8view|12view|16view|20view|
 
 
 ## Installation
